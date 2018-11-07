@@ -12,4 +12,4 @@ Webes eléréssel feladatokat lehet felvinni és törölni melyeket egy adatbáz
 
 ### Felvétel
 
-[[/blob/foto.png|Kezdo]]
+![Kezdo kep](blob/foto.png?raw=true)
